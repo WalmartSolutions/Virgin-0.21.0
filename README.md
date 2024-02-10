@@ -8,6 +8,12 @@ This thing got gassed 2 months ago and this cool guy in DiObfuskator discord ser
 [1]: https://github.com/3000IQPlay
 [2]: https://github.com/ethaanol
 
+# How To Use
+
+1. Download the Fabric installer from here, open it and choose Minecraft 1.20.1 & Fabric Loader 0.14.21
+2. Download Virgin-Premium-0.21.0.jar from this repository page along with Fabric API and put them all into your .minecraft/mods folder
+3. Start the game (with Fabric)
+
 # Credits
 - ??? - Making this client.
 - [3000IQPlay][1] - Cracking.
