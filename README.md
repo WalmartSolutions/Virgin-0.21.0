@@ -21,12 +21,12 @@ This thing got gassed 2 months ago and this cool guy in DiObfuskator discord ser
 
 # GUI (Bind: RCtrl)
 
-<img src="https://media.discordapp.net/attachments/1165673716898861206/1205860425694974022/3EuoTuD.png?ex=65d9e809&is=65c77309&hm=631eeaaf13ee1c7b8b542fad99e2335b8b0640f73ff29d45623f340d37e460bd&=&format=webp&quality=lossless&width=1662&height=934">
+<img src="https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-gui.png?raw=true">
 
 # Hall of autism
 
-<img src="https://media.discordapp.net/attachments/1176517982697046107/1206980231211257888/GyArvnG.png?ex=65ddfaef&is=65cb85ef&hm=99f18e8cb61c81eef571be0ae34801d0beabca5ecad57f92da3917f35f2e2e51&=&format=webp&quality=lossless&width=1056&height=840">
+<img src="https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hos1.png?raw=true">
 
-<img src="https://media.discordapp.net/attachments/1144599397406097549/1206981124627234876/Mv4fmDT.png?ex=65ddfbc4&is=65cb86c4&hm=c8384e2312ba65b04fb56be91192542ddd43fc472ef34bb35ba2c6c3de26ab02&=&format=webp&quality=lossless&width=1509&height=280">
+<img src="https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hos2.png?raw=true">
 
-<img src="https://media.discordapp.net/attachments/1144599397406097549/1206982106299764746/7PidS15.png?ex=65ddfcae&is=65cb87ae&hm=83271e421202cc2870545d48c83f76a95d93dbff0c521cf002c29606e9dbb100&=&format=webp&quality=lossless&width=702&height=934">
+<img src="https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hos3.png?raw=true">
