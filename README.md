@@ -17,7 +17,7 @@ This thing got gassed 2 months ago and this cool guy in DiObfuskator discord ser
 # Credits
 - ??? - Making this client.
 - [3000IQPlay][1] - Cracking.
-- pkwurld - Jar.
+- ??? - Jar.
 
 # GUI (Bind: RCtrl)
 
